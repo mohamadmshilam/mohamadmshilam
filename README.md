@@ -1,18 +1,18 @@
 <div align="center">
 
 # 🧬 MOHAMAD MSHILAM
-**Molecular Biology & Genetics Researcher | Computational Biology** *Optimizing Biological Data through Code*
+**Molecular Biology & Genetics Researcher | Computational Biology** *Specializing in Molecular Mechanisms, Genomics, and Bioinformatics Automation*
 
 ---
 
 | 📍 Location | 🎓 Education | 🌍 Languages | 🎂 Age |
 | :--- | :--- | :--- | :--- |
-| Erzurum, Turkey | B.Sc. Molecular Biology | Arabic, English, Turkish | 25 |
+| Istanbul / Erzurum, TR | B.Sc. Molecular Biology | Arabic, English, Turkish | 25 |
 
 </div>
 
-## 🖥️ COMPUTATIONAL TERMINAL [v1.0]
+## 🖥️ COMPUTATIONAL ENVIRONMENT [v1.0]
 ```bash
-# Current Status: Mastering Python for Bioinformatics
-# Focus: Sequence Alignment, FASTA Parsing, Rosalind Challenges
-# OS: Ubuntu / Linux Environment
+# Current Status: Solving Bioinformatics Challenges
+# Primary Focus: Python for Biologists & Sequence Analysis
+# Laboratory Skills: PCR, CRISPR, DNA/RNA Isolation, Cell Culture
